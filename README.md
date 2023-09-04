@@ -21,6 +21,8 @@
 
 ### Моя статистика
 
+<div style="display: flex;>
 <a href="http://www.github.com/PeachMood"><img src="https://github-readme-stats.vercel.app/api?username=PeachMood&show_icons=true&hide=issues,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true&locale=ru&custom_title=Статистика%20%на%20%GitHub&rank_icon=github" alt="PeachMood's GitHub stats" /></a>
 
 <a href="https://github.com/PeachMood" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeachMood&langs_count=4&title_color=f97316&text_color=ffffff&layout=compact&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=ru&hide=plpgsql&custom_title=Топ%20%языков" alt="Топ языков" /></a>
+</div>
