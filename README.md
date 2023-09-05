@@ -22,13 +22,13 @@
 ### Интересные проекты
 <div style="display: flex; flex-direction: row;">
 <a href="https://github.com/PeachMood/movies-explorer-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend" width="271"/>
 </a>
 <a href="https://github.com/PeachMood/mesto-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=mesto-react" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=mesto-react" width="271"/>
 </a>
 <a href="https://github.com/PeachMood/movies-explorer-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-api" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-api" width="271"/>
 </a>
 </div>
 
