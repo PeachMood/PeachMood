@@ -22,19 +22,19 @@
 ### Интересные проекты
 <div style="display: flex; flex-direction: row;">
 <a href="https://github.com/PeachMood/movies-explorer-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend" width="271"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
 </a>
 <a href="https://github.com/PeachMood/mesto-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=mesto-react" width="271"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=mesto-react&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
 </a>
 <a href="https://github.com/PeachMood/movies-explorer-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-api" width="271"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-api&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
 </a>
 </div>
 
 ### Социальные сети
 
 <p align="left"> 
-  <a href="https://discord.com/users/BLACK RAVEN#2761" target="_blank" rel="noreferrer"> <picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />  </a> 
+  <a href="https://discord.com/users/BLACK RAVEN#2761" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />  </a> 
   <a href="https://www.github.com/PeachMood" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
   <a href="https://www.stackoverflow.com/users/20566211/ann-voronova" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </a></p>
