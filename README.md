@@ -15,20 +15,20 @@
 ### Статистика
 
 <div style="display: flex; flex-direction: row;">
-<a href="http://www.github.com/PeachMood"><img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=PeachMood&show_icons=true&hide=issues,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=ru&custom_title=GitHub&rank_icon=github&card_width=500" alt="PeachMood's GitHub stats" /></a>
-<a href="https://github.com/PeachMood" align="right"><img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeachMood&langs_count=4&title_color=f97316&text_color=ffffff&layout=compact&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=ru&hide=plpgsql&custom_title=Топ%20%языков" alt="Топ языков" /></a>
+<a href="http://www.github.com/PeachMood"><img style="height: 150px" src="https://github-readme-stats-swart-eta.vercel.app/api?username=PeachMood&show_icons=true&hide=issues,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=ru&custom_title=GitHub&rank_icon=github&card_width=500" alt="PeachMood's GitHub stats" /></a>
+<a href="https://github.com/PeachMood" align="right"><img style="height: 150px" src="https://github-readme-stats-swart-eta.vercel.app/api/top-langs/?username=PeachMood&langs_count=4&title_color=f97316&text_color=ffffff&layout=compact&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=ru&hide=plpgsql&custom_title=Топ%20%языков" alt="Топ языков" /></a>
 </div>
 
 ### Интересные проекты
 <div style="display: flex; flex-direction: row;">
 <a href="https://github.com/PeachMood/movies-explorer-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
+  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
 </a>
 <a href="https://github.com/PeachMood/mesto-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=mesto-react&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
+  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=mesto-react&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
 </a>
 <a href="https://github.com/PeachMood/movies-explorer-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-api&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
+  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-api&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
 </a>
 </div>
 
