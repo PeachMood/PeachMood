@@ -21,14 +21,14 @@
 
 ### Интересные проекты
 <div style="display: flex; flex-direction: row;">
+<a href="https://github.com/PeachMood/handy">
+  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=handy&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&" height="93.75px" />
+</a>
 <a href="https://github.com/PeachMood/movies-explorer-frontend">
-  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
+  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-frontend&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="250" />
 </a>
 <a href="https://github.com/PeachMood/mesto-react">
-  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=mesto-react&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
-</a>
-<a href="https://github.com/PeachMood/movies-explorer-api">
-  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=movies-explorer-api&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="271"/>
+  <img src="https://github-readme-stats-swart-eta.vercel.app/api/pin/?username=PeachMood&repo=mesto-react&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" width="250" />
 </a>
 </div>
 
